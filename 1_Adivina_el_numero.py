@@ -77,7 +77,7 @@ El 30% de la población no lo consigue
 ░█▄▀▄█ ▀▀▀▀ ─▀─▀─ ▄ 　 ░█▄▄█ ▀▀▀▀ 　 ▀▀▀ ▀▀▀▀ ▀▀▀▀ ▀─▀▀ ▀──▀ ▀▀▀ ──▀── ▀▀▀ ▄
    
         Adivinaste el número secreto {numero_secreto} en {intentos} intentos
-    >Solo el {porcentaje:.2f}% de la población mundial es capaz de hacerlo{RESET}<
+    >Solo el {porcentaje:.2f}% de la población mundial es capaz de hacerlo< {RESET}
           
           """)
 
